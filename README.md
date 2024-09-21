@@ -6,3 +6,6 @@ This is a public repository for all the Portfolio Products under the **Data Scie
 
 ### Python Fundamentals for Data Science (Part I)
 [Frida Kahlo Exhibition](Python-Fundamentals-I/fridakahlo/frida_project.ipynb)
+
+### Python Fundamentals for Data Science (Part II)
+1. [Python Strings: Medical Insurance Project](Python-Fundamentals-II/Python-Strings-Medical-Insurance/Python_Strings_Medical_Insurance.ipynb)
